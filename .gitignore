@@ -1,0 +1,4 @@
+mveny/
+.env
+__pycache__/
+*.pyc
